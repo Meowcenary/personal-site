@@ -1,0 +1,47 @@
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+title = ""
+copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+theme = "npqhugo"
+pygmentsUseClasses=true
+
+[params]
+  author = "Eric Newman"
+  description = "Portfolio"
+  keywords = "hugo portfolio"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = false
+  displayRecent = false
+  displayHomeContent = false
+  recentMax = 4
+  mail = "newmaneric5@@gmail.com"
+  phone = "8888888888"
+  formspreeID = "yourformspreeID"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    pre = "<i class=\"far fa-address-card\"></i>"
+    url = "/about"
+    weight = -9
+  [[menu.main]]
+    name = "Resume"
+    pre = "<i class=\"far fa-file\"></i>"
+    url = "/resume"
+    weight = -6
+  [[menu.main]]
+    name = "Github"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/Meowcenary"
+    weight = -4
+  [[menu.main]]
+    name = "Hobbies"
+    pre = "<i class=\"far fa-paper-plane\"></i>"
+    url = "/hobbies_and_fun"
+    weight = -3
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class=\"far fa-envelope\"></i>"
+    url = "/contact"
+    weight = -1
