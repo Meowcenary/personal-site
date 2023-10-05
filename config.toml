@@ -38,7 +38,7 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "Hobbies"
     pre = "<i class=\"far fa-paper-plane\"></i>"
-    url = "/hobbies_and_fun"
+    url = "/hobbies"
     weight = -3
   [[menu.main]]
     name = "Contact"
