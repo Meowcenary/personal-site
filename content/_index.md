@@ -4,6 +4,7 @@ description = "A brief look at my personal background"
 date = "2023-10-2"
 +++
 
+# Welcome
 Hello, I'm Eric Newman. I grew up in Southeast Michigan, attended Michigan State University from 2012-2016 graduating
 with a computer science degree, and following that moved to Chicago where I have lived and worked since. My career has
 largely involved working with Ruby on Rails apps, but I also have experience with other dynamic languages such as Python
@@ -17,4 +18,5 @@ the time I love going to Chicago White Sox baseball games, playing Dungeons and 
 exploring the city with my wife.
 
 If you would like to read more about my professional experience and education you can view my resume from the link
-located on the sidebar of this site. My personal projects and a contact form are also found there.
+located on the sidebar of this site. My personal projects and a contact form that you can message me with are also found
+there.

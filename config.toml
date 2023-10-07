@@ -13,17 +13,15 @@ pygmentsUseClasses=true
   microBlogSection = "posts"
   displayMicroBlog = false
   displayRecent = false
-  displayHomeContent = false
+  displayHomeContent = true
   recentMax = 4
-  mail = "newmaneric5@@gmail.com"
-  phone = "8888888888"
-  formspreeID = "yourformspreeID"
+  formspreeID = "xzblkqjk"
 
 [menu]
   [[menu.main]]
     name = "About"
     pre = "<i class=\"far fa-address-card\"></i>"
-    url = "/about"
+    url = "/"
     weight = -9
   [[menu.main]]
     name = "Resume"
