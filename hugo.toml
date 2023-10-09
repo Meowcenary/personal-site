@@ -29,6 +29,11 @@ pygmentsUseClasses=true
     url = "/resume"
     weight = -6
   [[menu.main]]
+    name = "Projects"
+    pre = "<i class=\"fa fa-code\"></i>"
+    url = "/projects"
+    weight = -5
+  [[menu.main]]
     name = "Github"
     pre = "<i class=\"fab fa-github fa-ms\"></i>"
     url = "https://github.com/Meowcenary"

@@ -1,9 +1,8 @@
 +++
-description = 'My interests unrelated to computers and technology'
-date = 2023-10-02T16:17:49-05:00
+title = "Hobbies and Interests"
+description = "My interests unrelated to computers and technology"
+date = 2023-10-02
 +++
-
-Here are some of my primary interests and hobbies outside of programming
 
 # Sports
 My two favorite sports are football and baseball and my favorite team for each are the Green Bay Packers and the Chicago

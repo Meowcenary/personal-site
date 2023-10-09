@@ -18,5 +18,5 @@ the time I love going to Chicago White Sox baseball games, playing Dungeons and 
 exploring the city with my wife.
 
 If you would like to read more about my professional experience and education you can view my resume from the link
-located on the sidebar of this site. My personal projects and a contact form that you can message me with are also found
-there.
+located on the sidebar of this site. My personal projects of note, a link to my Github page, and a contact form that you
+can message me with are also found there.
